@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/vasilena andreeva](https://www.linkedin.com/in/vasilena-andreeva-59b800263/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vasilena andreeva" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vasilena-andreeva-59b800263/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vasilena andreeva" height="30" width="40" /></a>
 <a href="https://instagram.com/v_andreevaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="v_andreevaa" height="30" width="40" /></a>
 <a href="[https://discord.gg/vivi86#2801](https://discordapp.com/users/vivi86#2801)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="vivi86#2801" height="30" width="40" /></a>
 </p>
