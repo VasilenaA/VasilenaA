@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vasilena</h1>
 <h3 align="center">I am currently a first year software technologies and design student.</h3>
 
-- 🔭 I’m currently working on my first website [MV restaurant](https://vasilenaa.github.io/index.html)
+- 🔭 I’m currently working on: 
 
 - 🌱 I’m currently learning **JavaScript, C#**
 
