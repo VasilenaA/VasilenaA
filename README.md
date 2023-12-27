@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vasilena</h1>
-<h3 align="center">I am currently a first year software technologies and design student.</h3>
+<h3 align="center">I am currently a second year software technologies and design student.</h3>
 
 - 🔭 I’m currently working on: 
 
