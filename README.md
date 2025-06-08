@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vasilena</h1>
-<h3 align="center">I am currently a second year software technologies and design student.</h3>
+<h3 align="center">I am currently a third year software technologies and design student.</h3>
 
 - 🔭 I’m currently working on: 
 
-- 🌱 I’m currently learning **JavaScript, C#**
+- 🌱 I’m currently learning **Java, JavaScript, C#**
 
 - 👯 I’m looking to collaborate on **projects to enhance my skills**
 
